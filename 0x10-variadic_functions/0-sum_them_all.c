@@ -4,7 +4,7 @@
 /**
 * sum_them_all - function that returns the sum of all its parameters
 * @n: The number of parameters to be passed to the function
-* @...: Number of parameters to calculate the sum of a variable
+* @...: A variable number of parameters to calculate the sum of
 *
 * Return: if n == 0 - 0
 * otherwise - the sum of all parameters
