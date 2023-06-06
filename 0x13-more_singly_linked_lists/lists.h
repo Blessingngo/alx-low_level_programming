@@ -9,7 +9,7 @@
  * @n: integer
  * @next: points to the next node
  *
- * Description: alx project singly linked list node structure
+ * Description: all alx project singly linked list node structure
  */
 typedef struct listint_t
 {
